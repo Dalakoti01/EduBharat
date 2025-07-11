@@ -122,7 +122,8 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <CourseCard
               title="JEE Mains & Advanced"
-              description="Complete preparation for India's top engineering entrance exams with focus on Physics, Chemistry & Mathematics."
+              description="Complete preparation for India&apos;s
+ top engineering entrance exams with focus on Physics, Chemistry & Mathematics."
               image="https://images.unsplash.com/photo-1580582932707-520aed937b7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
               price="₹15,999"
               category="Entrance Exam"
@@ -171,7 +172,7 @@ export default function Home() {
               name="Priya Sharma"
               location="Delhi"
               image="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-              quote="Thanks to EduBharat's JEE preparation course, I secured admission to IIT Bombay. The teachers were excellent and the study material was comprehensive."
+              quote="Thanks to EduBharat&apos;s JEE preparation course, I secured admission to IIT Bombay. The teachers were excellent and the study material was comprehensive."
               rating={5}
             />
             <TestimonialCard
@@ -185,7 +186,7 @@ export default function Home() {
               name="Ananya Patel"
               location="Ahmedabad"
               image="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
-              quote="I scored 95% in my CBSE Class 10 boards after enrolling in EduBharat's course. The teachers made complex topics easy to understand."
+              quote="I scored 95% in my CBSE Class 10 boards after enrolling in EduBharat&apos;s course. The teachers made complex topics easy to understand."
               rating={4}
             />
           </div>
