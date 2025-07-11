@@ -28,8 +28,9 @@ export default function Home() {
                 Unlock Your Potential with EduBharat
               </h1>
               <p className="text-lg mb-8">
-                India's premier online learning platform offering comprehensive
-                courses for students from Class 1 to 12, JEE, NEET, and more.
+                India&apos;s premier online learning platform offering
+                comprehensive courses for students from Class 1 to 12, JEE,
+                NEET, and more.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <button
